@@ -123,53 +123,6 @@ Here is one of my primary projects that I am currently actively developing and o
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- High reliability mirror for GitHub Stats -->
-        <img src="https://github-stats-extended.vercel.app/api?username=adnanashraf-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
-      </td>
-      <td width="50%" align="center">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanashraf-code&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats">
-      </td>
-    </tr>
-    <tr>
-      <td width="100%" colspan="2" align="center">
-        <!-- High reliability mirror for Top Languages -->
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnanashraf-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="80%" alt="Top Langs">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <!-- Beautiful interactive GitHub Activity Graph -->
-  <a href="https://github.com/adnanashraf-code">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanashraf-code&theme=tokyo-night&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&hide_border=true" width="100%" alt="GitHub Activity Graph">
-  </a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- High-reliability mirror for GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=adnanashraf-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies">
-  </a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
-
 ## 🐍 Contribution Snake Game
 
 <p align="center">
@@ -230,6 +183,54 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 -->
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td align="center">
+        <!-- High reliability mirror for GitHub Stats with hidden grade rank for a clean look -->
+        <img src="https://github-stats-extended.vercel.app/api?username=adnanashraf-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="410" alt="GitHub Stats">
+      </td>
+      <td align="center">
+        <!-- Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanashraf-code&theme=tokyonight&hide_border=true" width="410" alt="Streak Stats">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Compact Top Languages card scaled perfectly to match the above cards -->
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnanashraf-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="410" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <!-- Beautiful interactive GitHub Activity Graph -->
+  <a href="https://github.com/adnanashraf-code">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanashraf-code&theme=tokyo-night&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&hide_border=true" width="100%" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <!-- High-reliability mirror for GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://gh-trophy.cdnsoft.net/?username=adnanashraf-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies">
+  </a>
+</p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
