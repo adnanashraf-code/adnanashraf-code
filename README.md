@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Adnan%20Ashraf&fontSize=65&fontAlignY=35&animation=twinkling" width="100%" alt="Capsule Render Header"></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7928ca&height=220&section=header&text=Adnan%20Ashraf&fontSize=60&fontAlignY=33&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Creative%20Tech%20Explorer&descSize=20&descColor=e0f7fa&descAlignY=55&animation=twinkling" width="100%" alt="Capsule Render Header"></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,18 +16,18 @@
   <tr>
     <td width="60%" valign="top">
       <h3>Hey there! I'm Adnan 👋</h3>
-      <p>I am a passionate developer focused on building high-quality, practical web and mobile applications. Currently expanding my expertise in full-stack development and integrating modern AI technologies.</p>
+      <p>I am a passionate <b>Full-Stack Developer</b> on a mission to build clean, efficient, and user-centric digital experiences. Currently crafting modern web & mobile applications while exploring the cutting-edge intersection of backend architectures and AI-driven development workflows.</p>
       <ul>
-        <li>🔭 <b>Working on:</b> Full-stack development skills and practical web projects.</li>
-        <li>🌱 <b>Currently learning:</b> JavaScript, full-stack architecture, and advanced AI agent workflows.</li>
-        <li>👯 <b>Collaboration:</b> Open to collaborating on web development and beginner-friendly open-source projects.</li>
-        <li>🤝 <b>Seeking guidance:</b> Backend systems, database design, and industry best practices.</li>
-        <li>💬 <b>Ask me about:</b> Web development fundamentals, UI frameworks, or my tech learning journey.</li>
-        <li>⚡ <b>Core driver:</b> Passionate about clean code, performance optimization, and making impact-driven tools.</li>
+        <li>🚀 <b>Currently Building:</b> High-performance full-stack web applications and interactive systems.</li>
+        <li>🧠 <b>Exploring & Learning:</b> JavaScript/React ecosystems, robust database design, and automated backend architectures.</li>
+        <li>🤝 <b>Open to Collaborating:</b> Creative web applications, frontend designs, and beginner-friendly open-source projects.</li>
+        <li>🎯 <b>Seeking Guidance:</b> Industry-standard backend patterns, API optimization, and cloud operations.</li>
+        <li>💬 <b>Let's Talk About:</b> Modern frontend frameworks, JavaScript optimization, or our learning journeys!</li>
+        <li>⚡ <b>Core Philosophy:</b> I believe code should not only solve problems but also deliver a delightful, seamless experience.</li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2N3JwdTh2OGNqdmtkYW1lNWd1aGk2MXB6Z29wbmNpcWJ6bXBwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" alt="Developer coding animation">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="100%" alt="Developer coding animation">
     </td>
   </tr>
 </table>
@@ -170,10 +170,10 @@ Here is one of my primary projects that I am currently actively developing and o
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
-### 🟢 Contribution Graph
+## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 </p>
 
 <!-- The GitHub Action automation instructions and YAML code block are hidden inside this markdown comment, keeping your profile README completely clean and premium, while still allowing you to open this file in your editor to reference/copy the setup!
@@ -234,14 +234,15 @@ jobs:
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote">
+  <!-- Premium custom quote card matching the cyan-blue theme -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f2fe,100:4facfe&height=100&section=header&text=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D&fontSize=20&fontColor=ffffff&desc=-+John+Johnson&descSize=14&descColor=e0f7fa&descAlignY=70&fontAlignY=45" width="650" alt="Programming Quote">
 </p>
 
 <br>
 
-<!-- Support and Coffee -->
+<!-- Support and Coffee: Upgraded to official custom branded button -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/adnanashraf" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="height: 50px !important;">
   </a>
 </p>
