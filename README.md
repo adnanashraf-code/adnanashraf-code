@@ -170,13 +170,10 @@ Here is one of my primary projects that I am currently actively developing and o
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
-## 🐍 Snake Contribution Graph
+### 🟢 Contribution Graph
 
 <p align="center">
-  <!-- Dynamic working animated snake graph placeholder that is 100% active and works on all devices instantly! -->
-  <a href="https://github.com/adnanashraf-code">
-    <img src="https://raw.githubusercontent.com/Platane/snk/master/readme-gifs/grid-snake.gif" alt="Animated Snake contribution graph" width="100%">
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 <!-- The GitHub Action automation instructions and YAML code block are hidden inside this markdown comment, keeping your profile README completely clean and premium, while still allowing you to open this file in your editor to reference/copy the setup!
