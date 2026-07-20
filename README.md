@@ -1,8 +1,8 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7928ca&height=220&section=header&text=Adnan%20Ashraf&fontSize=60&fontAlignY=33&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Creative%20Tech%20Explorer&descSize=20&descColor=e0f7fa&descAlignY=55&animation=twinkling" width="100%" alt="Capsule Render Header"></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7928ca&height=220&section=header&text=Adnan%20Ashraf&fontSize=60&fontAlignY=33&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Creative%20Tech%20Explorer&descSize=20&descColor=e0f7fa&descAlignY=55&animation=twinkling" width="100%" alt="Capsule Render Header"></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;Continuous+Learner+🌱;Open+Source+Enthusiast+🤝;Building+Impactful+Projects+⚡" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+🚀;Continuous+Learner+🌱;Open+Source+Enthusiast+🤝;Building+Impactful+Projects+⚡" alt="Typing SVG">
   </a>
 </p>
 
@@ -16,9 +16,9 @@
   <tr>
     <td width="60%" valign="top">
       <h3>Hey there! I'm Adnan 👋</h3>
-      <p>I am a passionate <b>Full-Stack Developer</b> on a mission to build clean, efficient, and user-centric digital experiences. Currently crafting modern web & mobile applications while exploring the cutting-edge intersection of backend architectures and AI-driven development workflows.</p>
+      <p>I am a passionate <b>MERN Stack Developer</b> on a mission to build clean, efficient, and user-centric digital experiences. Currently crafting modern web & mobile applications while exploring the cutting-edge intersection of backend architectures and AI-driven development workflows.</p>
       <ul>
-        <li>🚀 <b>Currently Building:</b> High-performance full-stack web applications and interactive systems.</li>
+        <li>🚀 <b>Currently Building:</b> High-performance MERN stack web applications and interactive systems.</li>
         <li>🧠 <b>Exploring & Learning:</b> JavaScript/React ecosystems, robust database design, and automated backend architectures.</li>
         <li>🤝 <b>Open to Collaborating:</b> Creative web applications, frontend designs, and beginner-friendly open-source projects.</li>
         <li>🎯 <b>Seeking Guidance:</b> Industry-standard backend patterns, API optimization, and cloud operations.</li>
@@ -74,6 +74,10 @@ Here is one of my primary projects that I am currently actively developing and o
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
@@ -123,7 +127,7 @@ Here is one of my primary projects that I am currently actively developing and o
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
