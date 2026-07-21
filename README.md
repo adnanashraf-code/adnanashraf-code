@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="100%" alt="Developer coding animation">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation">
     </td>
   </tr>
 </table>
@@ -37,18 +37,6 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
-## ⚡ Featured Projects
-
-Here is one of my primary projects that I am currently actively developing and optimizing:
-
-<!-- Premium custom repository card that works for both public and private repositories, matching the theme perfectly and never failing with API errors -->
-<p align="center">
-  <a href="https://github.com/adnanashraf-code/Kraft" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f2fe,100:4facfe&height=85&section=header&text=Kraft%20%E2%9E%A1%EF%B8%8F%20Click%20to%20Explore%20Repository&fontSize=24&fontAlignY=45" width="450" alt="Kraft Project Card">
-  </a>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
 
 ## 💻 Tech Stack
 
