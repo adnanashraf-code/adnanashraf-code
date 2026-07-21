@@ -1,44 +1,75 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7928ca&height=220&section=header&text=Adnan%20Ashraf&fontSize=60&fontAlignY=33&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Creative%20Tech%20Explorer&descSize=20&descColor=e0f7fa&descAlignY=55&animation=twinkling" width="100%" alt="Capsule Render Header"></p>
-
+<!-- Header Banner with Twinkling Animation & Vibrant Neon Gradient -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+🚀;Continuous+Learner+🌱;Open+Source+Enthusiast+🤝;Building+Impactful+Projects+⚡" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,35:4facfe,70:7928ca,100:ff007f&height=260&section=header&text=Adnan%20Ashraf&fontSize=70&fontAlignY=36&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Creative%20Tech%20Explorer%20%7C%20UI/UX%20Architect&descSize=20&descColor=e0f7fa&descAlignY=62&animation=twinkling" width="100%" alt="Adnan Ashraf Header">
+</p>
+
+<!-- Animated Typing SVG Header -->
+<p align="center">
+  <a href="https://github.com/adnanashraf-code">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=2500&pause=1000&color=00F2FE&multiline=false&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Architect+%F0%9F%92%BB;Creative+Tech+Explorer+%E2%9A%A1;Building+High-Performance+Web+Apps+%F0%9F%8D%95;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing SVG Animation">
   </a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=adnanashraf-code&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter"></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
 ## 💫 About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>Hey there! I'm Adnan 👋</h3>
-      <p>I am a passionate <b>MERN Stack Developer</b> on a mission to build clean, efficient, and user-centric digital experiences. Currently crafting modern web & mobile applications while exploring the cutting-edge intersection of backend architectures and AI-driven development workflows.</p>
+      <h3>Hey there, I'm Adnan! 👋</h3>
+      <p>I am a passionate <b>MERN Stack Developer & Creative Tech Explorer</b> dedicated to crafting seamless, high-performance, and visually captivating digital experiences. I specialize in building full-stack web architectures, interactive whiteboards, scalable APIs, and modern user interfaces.</p>
+      <br/>
       <ul>
-        <li>🚀 <b>Currently Building:</b> High-performance MERN stack web applications and interactive systems.</li>
-        <li>🧠 <b>Exploring & Learning:</b> JavaScript/React ecosystems, robust database design, and automated backend architectures.</li>
-        <li>🤝 <b>Open to Collaborating:</b> Creative web applications, frontend designs, and beginner-friendly open-source projects.</li>
-        <li>🎯 <b>Seeking Guidance:</b> Industry-standard backend patterns, API optimization, and cloud operations.</li>
-        <li>💬 <b>Let's Talk About:</b> Modern frontend frameworks, JavaScript optimization, or our learning journeys!</li>
-        <li>⚡ <b>Core Philosophy:</b> I believe code should not only solve problems but also deliver a delightful, seamless experience.</li>
+        <li>🚀 <b>Currently Crafting:</b> <b>KRAFT Studio</b> (Collaborative Realtime Whiteboard & Block Editor) & modern MERN web apps.</li>
+        <li>🧠 <b>Core Focus:</b> Advanced React ecosystem, Node.js microservices, MongoDB database optimization & AI-driven dev tools.</li>
+        <li>💡 <b>Passionate About:</b> Clean code architecture, micro-animations, fast load times & pixel-perfect UI design.</li>
+        <li>🤝 <b>Open For:</b> Collaborative web applications, open-source projects, and frontend design innovations.</li>
+        <li>⚡ <b>Motto:</b> <i>"First, solve the problem. Then, write the code."</i></li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding GIF animation">
     </td>
   </tr>
 </table>
 
-<!-- Connect with Me: Written completely on a single flat line without any line breaks to guarantee horizontal alignment on all markdown parsers -->
-<p align="center"><a href="https://linkedin.com/in/adnanashraf20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/it_adnan83" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;<a href="https://instagram.com/it_adnan87" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://codepen.io/adnanqoder" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adnanashraf7205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></p>
+<!-- Connect Links -->
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/adnanashraf20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://x.com/it_adnan83" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/it_adnan87" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/adnanqoder" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adnanashraf7205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
+## 🚀 Featured Projects
 
-## 💻 Tech Stack
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/adnanashraf-code/Kraft" target="_blank">
+          <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=header&text=KRAFT%20Studio%20%F0%9F%AA%90&fontSize=24&fontColor=ffffff&desc=Collaborative%20Whiteboard%20%26%20Block%20Editor&descSize=13&descColor=e0f7fa&descAlignY=68&animation=twinkling" width="100%" alt="Kraft Studio Project">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/adnanashraf-code" target="_blank">
+          <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:7928ca&height=120&section=header&text=MERN%20E-Commerce%20%F0%9F%9B%8D%EF%B8%8F&fontSize=24&fontColor=ffffff&desc=Full-Stack%20Store%20%26%20Payment%20Gateway&descSize=13&descColor=e0f7fa&descAlignY=68&animation=twinkling" width="100%" alt="MERN E-Commerce Project">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
+
+## 💻 Tech Stack & Arsenal
 
 <details open>
 <summary><b>🌐 Frontend Development</b></summary>
@@ -54,11 +85,12 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
 </p>
 </details>
 
-<details>
-<summary><b>⚙️ Backend & Systems</b></summary>
+<details open>
+<summary><b>⚙️ Backend & Systems & Databases</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
@@ -66,24 +98,26 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API">
+  <img src="https://img.shields.io/badge/REST_API-0055FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
 </p>
 </details>
 
 <details>
-<summary><b>🎨 Design & Collaboration</b></summary>
+<summary><b>🎨 Design & Productivity</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Hosting</b></summary>
+<summary><b>🛠️ Tools, CI/CD & Hosting</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -98,7 +132,7 @@
 </details>
 
 <details>
-<summary><b>🎮 Gaming & Engines & Others</b></summary>
+<summary><b>🎮 Gaming & Engines & Cyber Tech</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
@@ -113,129 +147,79 @@
 </p>
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Graph & Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" width="100%">
 </p>
 
-<!-- The GitHub Action automation instructions and YAML code block are hidden inside this markdown comment, keeping your profile README completely clean and premium, while still allowing you to open this file in your editor to reference/copy the setup!
-
-To make the snake animation above run automatically every 24 hours and keep eating your contributions, follow these simple steps:
-
-1. Go to your GitHub profile repository: adnanashraf-code (the repository named exactly after your username).
-2. Inside that repository, create a directory structure: .github/workflows/
-3. Create a file named generate-snake.yml inside that directory.
-4. Copy and paste the YAML code block below into that file and commit it.
-5. Go to the Actions tab of your repository, select Generate Snake, and click Run workflow to generate it the first time. It will then run automatically every day!
-
-```yaml
-name: Generate Snake Game
-
-on:
-  # Run automatically every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
-  
-  # Allow manual trigger via Actions tab
-  workflow_dispatch:
-    
-  # Run on every push to the main branch
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      # Generates a snake game from a github user (adnanashraf-code) contributions graph, outputting a svg animation at <summary_gif_path>
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: adnanashraf-code
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Push the content of <build_dir> to a branch
-      # The value will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<!-- The GitHub Action automation setup guide is preserved below:
+To activate the snake automation, create .github/workflows/generate-snake.yml with Platane/snk/svg-only@v3 for github_user_name: adnanashraf-code
 -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
-
-## 📊 GitHub Stats
+## 📊 Analytics & Performance Dashboard
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td align="center">
-        <!-- High reliability mirror for GitHub Stats with hidden grade rank for a clean look -->
+        <!-- High reliability mirror for GitHub Stats with hidden rank for clean aesthetics -->
         <img src="https://github-stats-extended.vercel.app/api?username=adnanashraf-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="410" alt="GitHub Stats">
       </td>
       <td align="center">
-        <!-- Streak Stats -->
+        <!-- Streak Stats Card -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanashraf-code&theme=tokyonight&hide_border=true" width="410" alt="Streak Stats">
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- Compact Top Languages card scaled perfectly to match the above cards -->
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnanashraf-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="410" alt="Top Langs">
+        <!-- Top Languages Card -->
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adnanashraf-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="410" alt="Top Languages">
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <!-- Beautiful interactive GitHub Activity Graph -->
   <a href="https://github.com/adnanashraf-code">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanashraf-code&theme=tokyo-night&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&hide_border=true" width="100%" alt="GitHub Activity Graph">
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <!-- High-reliability mirror for GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/adnanashraf-code">
     <img src="https://gh-trophy.cdnsoft.net/?username=adnanashraf-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies">
   </a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=2" width="100%" alt="Divider Line"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
+<!-- Animated Dynamic Quote Banner -->
 <p align="center">
-  <!-- Premium custom quote card matching the cyan-blue theme -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f2fe,100:4facfe&height=100&section=header&text=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D&fontSize=20&fontColor=ffffff&desc=-+John+Johnson&descSize=14&descColor=e0f7fa&descAlignY=70&fontAlignY=45" width="650" alt="Programming Quote">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f2fe,50:4facfe,100:7928ca&height=110&section=header&text=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D&fontSize=22&fontColor=ffffff&desc=-+John+Johnson&descSize=14&descColor=e0f7fa&descAlignY=72&fontAlignY=42&animation=twinkling" width="700" alt="Programming Quote Banner">
 </p>
 
-<br>
+<br/>
 
-<!-- Support and Coffee: Upgraded to official custom branded button -->
+<!-- Coffee & Support Section -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/adnanashraf" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="height: 50px !important;">
   </a>
+</p>
+
+<p align="center">
+  <sub><i>Crafted with ❤️ & ⚡ by <a href="https://github.com/adnanashraf-code">Adnan Ashraf</a></i></sub>
 </p>
