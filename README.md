@@ -48,26 +48,7 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <table border="0" cellspacing="10" cellpadding="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/adnanashraf-code/Kraft" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=header&text=KRAFT%20Studio%20%F0%9F%AA%90&fontSize=24&fontColor=ffffff&desc=Collaborative%20Whiteboard%20%26%20Block%20Editor&descSize=13&descColor=e0f7fa&descAlignY=68&animation=twinkling" width="100%" alt="Kraft Studio Project">
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/adnanashraf-code" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:7928ca&height=120&section=header&text=MERN%20E-Commerce%20%F0%9F%9B%8D%EF%B8%8F&fontSize=24&fontColor=ffffff&desc=Full-Stack%20Store%20%26%20Payment%20Gateway&descSize=13&descColor=e0f7fa&descAlignY=68&animation=twinkling" width="100%" alt="MERN E-Commerce Project">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:7928ca&height=3" width="100%" alt="Divider Line"></p>
 
 ## 💻 Tech Stack & Arsenal
 
@@ -220,6 +201,5 @@ To activate the snake automation, create .github/workflows/generate-snake.yml wi
   </a>
 </p>
 
-<p align="center">
-  <sub><i>Crafted with ❤️ & ⚡ by <a href="https://github.com/adnanashraf-code">Adnan Ashraf</a></i></sub>
-</p>
+
+
